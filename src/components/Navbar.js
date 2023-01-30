@@ -4,7 +4,7 @@ import { MdFingerprint } from 'react-icons/md';
 // import { click } from '@testing-library/user-event/dist/click';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { Button } from './Button';
-import './Navbar.css';
+import './style/Navbar.css';
 import { IconContext } from 'react-icons/lib';
 
 function Navbar() {

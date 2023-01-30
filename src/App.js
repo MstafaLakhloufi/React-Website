@@ -2,11 +2,11 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import { BrowserRouter, Route, Routes} from 'react-router-dom';
 import './App.css';
-import Home from './components/pages/HomePage/Home';
-import Services from './components/pages/Services/Services';
-import Products from './components/pages/Products/Products';
-import SignUp from './components/pages/SignUp/SignUp';
-import Footer from './components/pages/Footer/Footer';
+import Home from './pages/homePage/Home';
+import Services from './pages/services/Services';
+import Products from './pages/products/Products';
+import SignUp from './pages/signUp/SignUp';
+import Footer from './pages/footer/Footer';
 
 
 
